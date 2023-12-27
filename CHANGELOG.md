@@ -1,3 +1,10 @@
+## 0.3.0 (2023-12-27)
+
+### chore
+
+- 新增套件 `@emotion/react`, `@emotion/styled`, `@mui/icons-material`, `@mui/material`, `sass`
+- 移除套件 `tailwindcss`, `postcss`, `autoprefixer`
+
 ## 0.2.0 (2023-12-25)
 
 ### feat
