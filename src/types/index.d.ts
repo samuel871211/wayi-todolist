@@ -1,3 +1,4 @@
+export type GetTasksAPIParamTypes = "completed" | "uncompleted" | "all";
 export type Task = {
   id: number;
   /**

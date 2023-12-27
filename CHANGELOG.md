@@ -1,3 +1,9 @@
+## 0.3.0 (2023-12-25)
+
+### chore
+
+- 移除套件 `tailwindcss`, `postcss`, `autoprefixer`
+
 ## 0.2.0 (2023-12-25)
 
 ### feat
