@@ -1,3 +1,15 @@
+## 0.4.0 (2023-12-27)
+
+### feat
+
+- 微調 function `getTasksAPI` 的參數型別
+- 新增全局Component `Header`
+- 任務的CRUD串接完成、畫面也完成
+
+### chore
+
+- 移除 `src/app`，改為使用 `src/pages`
+
 ## 0.3.0 (2023-12-27)
 
 ### chore

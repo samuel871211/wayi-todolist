@@ -27,9 +27,9 @@ taskAPI.interceptors.response.use(
 
 export function getTasksAPI(params?: {
   /**
-   * @default 1
+   * @default "1"
    */
-  page?: number;
+  page?: string;
   /**
    * @default "all"
    */
